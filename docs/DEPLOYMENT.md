@@ -471,3 +471,17 @@ sudo tail -f /var/log/nginx/access.log
 
 **Zuletzt aktualisiert:** 1. Dezember 2025  
 **Version:** 1.0.0
+
+
+---
+
+## 🚀 **Deployment am 1. Dezember 2025**
+
+**Status:** ✅ **ERFOLGREICH**
+
+Das Let's Encrypt Zertifikat wurde erfolgreich ausgestellt und die HTTPS-Konfiguration ist aktiv. Die Website ist jetzt unter `https://form.motorlink.ch` sicher erreichbar.
+
+**Wichtige Hinweise:**
+- Das Setup-Skript muss nicht erneut ausgeführt werden.
+- Die automatische Zertifikat-Erneuerung ist aktiv.
+- Ein vollständiges Backup wurde vor dem Deployment erstellt.
